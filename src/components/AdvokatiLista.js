@@ -8,7 +8,6 @@ function AdvokatiLista() {
 
     useEffect(() => {
         axios.get('http://localhost:8000/api/advokat').then(res => {
-            console.log('Ovo je res' + res)
             setAdvokati(res.data.data)
         });
     }, []);

@@ -15,12 +15,28 @@ code {
 }
 
 .advokat-main-div {
-  margin-left: 500px;
+  margin-left: 320px;
 }
 
 #naslov-advokati {
   margin-bottom: 70px;
+  margin-top: 50px;
   margin-left: 740px;
   font-size: 50px;
   color: #6495ED;
+}
+
+.kontakt-forma-main-div {
+  width: 650px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+#btn_save {
+  margin-top: 20px;
+  margin-left: 250px;
+}
+
+.kontaktirajte-nas-h2 {
+  margin-left: 170px;
 }
